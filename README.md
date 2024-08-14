@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hamdoon-Ijaz
 - 👀 I’m interested in computational fluid dynamics
 - 🌱 I’m currently learning how to model expansion waves using method of characteristics
-- 💞️ I’m looking to collaborate on the development of In-house code for solving flowfield of centered one-dimensional unsteady expansion subject to thermochemical nonequilibrium
+- 💞️ I’m looking to collaborate to study the waves in random media to study the hydraulic transients
 - 📫 How to reach me ... Email: hamdoonijaz1@outlook.com
 
 <!---
