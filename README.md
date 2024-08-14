@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hamdoon-Ijaz
 - 👀 I’m interested in computational fluid dynamics
-- 🌱 I’m currently learning how to model expansion waves using method of characteristics
+- 🌱 I’m currently working to development of Mathematical Models to study the waves in random media to better understand the hydraulic transients.
 - 💞️ I’m looking to collaborate to study the waves in random media to study the hydraulic transients
 - 📫 How to reach me ... Email: hamdoonijaz1@outlook.com
 
